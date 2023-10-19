@@ -1,0 +1,102 @@
+2023-10-19 17:32:09:731 process with pid:140830 ran command "/usr/bin/Rscript" with arguments: "preprocess.R"
+2023-10-19 17:32:09:732 process with pid:140830 executed file:/root/usr/bin/Rscript
+2023-10-19 17:32:09:732 process with pid:140830 loaded file:/root/usr/bin/Rscript
+2023-10-19 17:32:09:734 process with pid:140830 ran command "/usr/lib64/R/bin/R" with arguments: "--no-echo --no-restore --file=preprocess.R"
+2023-10-19 17:32:09:734 process with pid:140830 executed file:/root/usr/lib64/R/bin/R
+2023-10-19 17:32:09:734 process with pid:140830 loaded file:/root/usr/bin/bash
+2023-10-19 17:32:09:738 process with pid:140831 ran command "/usr/bin/uname" with arguments: "-m"
+2023-10-19 17:32:09:738 process with pid:140831 executed file:/root/usr/bin/uname
+2023-10-19 17:32:09:739 process with pid:140831 loaded file:/root/usr/bin/uname
+2023-10-19 17:32:09:744 process with pid:140835 ran command "/usr/bin/sed" with arguments: "-e s/ /~+~/g"
+2023-10-19 17:32:09:744 process with pid:140834 ran command "/usr/bin/sed" with arguments: "-e s/[^=]*=//"
+2023-10-19 17:32:09:744 process with pid:140835 executed file:/root/usr/bin/sed
+2023-10-19 17:32:09:745 process with pid:140835 loaded file:/root/usr/bin/sed
+2023-10-19 17:32:09:745 process with pid:140834 executed file:/root/usr/bin/sed
+2023-10-19 17:32:09:745 process with pid:140834 loaded file:/root/usr/bin/sed
+2023-10-19 17:32:09:752 process with pid:140830 ran command "/usr/lib64/R/bin/exec/R" with arguments: "--no-echo --no-restore --file=preprocess.R"
+2023-10-19 17:32:09:752 process with pid:140830 executed file:/root/usr/lib64/R/bin/exec/R
+2023-10-19 17:32:09:915 process with pid:140836 ran command "/bin/sh" with arguments: "-c /usr/bin/which 'uname' 2>/dev/null"
+2023-10-19 17:32:09:915 process with pid:140836 executed file:/root/usr/bin/bash
+2023-10-19 17:32:09:915 process with pid:140836 loaded file:/root/usr/bin/bash
+2023-10-19 17:32:09:917 process with pid:140837 ran command "/usr/bin/which" with arguments: "uname"
+2023-10-19 17:32:09:917 process with pid:140837 executed file:/root/usr/bin/which
+2023-10-19 17:32:09:917 process with pid:140837 loaded file:/root/usr/bin/which
+2023-10-19 17:32:09:918 process with pid:140838 ran command "/bin/sh" with arguments: "-c uname -a"
+2023-10-19 17:32:09:918 process with pid:140838 executed file:/root/usr/bin/bash
+2023-10-19 17:32:09:918 process with pid:140838 loaded file:/root/usr/bin/bash
+2023-10-19 17:32:09:919 process with pid:140838 ran command "/usr/bin/uname" with arguments: "-a"
+2023-10-19 17:32:09:919 process with pid:140838 executed file:/root/usr/bin/uname
+2023-10-19 17:32:09:920 process with pid:140838 loaded file:/root/usr/bin/uname
+2023-10-19 17:32:09:956 process with pid:140830 read from file:/home/pr/exp1/preprocess.R
+2023-10-19 17:32:09:957 process with pid:140830 read from file:/home/pr/exp1/data.csv
+2023-10-19 17:32:09:961 process with pid:140830 wrote to file:/home/pr/exp1/temp_data.csv
+2023-10-19 17:32:09:961 process with pid:140830 read from file:/home/pr/exp1/preprocess.R
+2023-10-19 17:32:09:961 process with pid:140839 ran command "/bin/sh" with arguments: "-c rm -Rf '/tmp/RtmpjezpsK'"
+2023-10-19 17:32:09:961 process with pid:140839 executed file:/root/usr/bin/bash
+2023-10-19 17:32:09:961 process with pid:140839 loaded file:/root/usr/bin/bash
+2023-10-19 17:32:09:963 process with pid:140839 ran command "/usr/bin/rm" with arguments: "-Rf /tmp/RtmpjezpsK"
+2023-10-19 17:32:09:963 process with pid:140839 executed file:/root/usr/bin/rm
+2023-10-19 17:32:09:963 process with pid:140839 loaded file:/root/usr/bin/rm
+2023-10-19 17:32:12:148 process with pid:140840 ran command "/home/pr/venv/bin/python3" with arguments: "train_model.py"
+2023-10-19 17:32:12:148 process with pid:140840 executed file:/root/usr/bin/python3.11
+2023-10-19 17:32:12:149 process with pid:140840 loaded file:/root/usr/bin/python3.11
+2023-10-19 17:32:12:173 process with pid:140840 read from file:/home/pr/exp1/train_model.py
+2023-10-19 17:32:12:190 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/core/_multiarray_umath.cpython-311-x86_64-linux-gnu.
+2023-10-19 17:32:12:191 process with pid:140840 loaded file:/home/pr/venv/lib/python3.11/site-packages/numpy.libs/libopenblas64_p-r0-0cf96a72.3.23.dev.so
+2023-10-19 17:32:12:191 process with pid:140840 loaded file:/home/pr/venv/lib/python3.11/site-packages/numpy.libs/libgfortran-040039e1.so.5.0.0
+2023-10-19 17:32:12:191 process with pid:140840 loaded file:/home/pr/venv/lib/python3.11/site-packages/numpy.libs/libquadmath-96973f99.so.0.0.0
+2023-10-19 17:32:12:247 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/core/_multiarray_tests.cpython-311-x86_64-linux-gnu.
+2023-10-19 17:32:12:266 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/linalg/_umath_linalg.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:288 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/fft/_pocketfft_internal.cpython-311-x86_64-linux-gn
+2023-10-19 17:32:12:292 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/mtrand.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:293 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/bit_generator.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:293 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/_common.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:300 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/_bounded_integers.cpython-311-x86_64-linux-gnu.
+2023-10-19 17:32:12:301 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/_mt19937.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:301 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/_philox.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:302 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/_pcg64.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:302 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/_sfc64.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:302 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/_generator.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:329 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/pandas_parser.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:329 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/pandas_datetime.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:329 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/interval.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:330 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/hashtable.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:331 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/missing.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:332 process with pid:140840 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/dtypes.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:332 process with pid:140840 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/np_datetime.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:333 process with pid:140840 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/conversion.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:333 process with pid:140840 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/base.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:334 process with pid:140840 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/offsets.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:334 process with pid:140840 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/timestamps.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:335 process with pid:140840 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/nattype.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:336 process with pid:140840 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/timedeltas.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:336 process with pid:140840 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/timezones.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:341 process with pid:140840 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/fields.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:341 process with pid:140840 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/ccalendar.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:346 process with pid:140840 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/tzconversion.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:347 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/properties.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:347 process with pid:140840 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/parsing.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:351 process with pid:140840 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/strptime.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:352 process with pid:140840 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/period.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:353 process with pid:140840 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/vectorized.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:353 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/ops_dispatch.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:354 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/algos.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:355 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/lib.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:367 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/ops.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:373 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/arrays.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:383 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/tslib.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:388 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/sparse.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:398 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/indexing.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:399 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/index.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:400 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/internals.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:401 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/join.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:415 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/writers.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:427 process with pid:140840 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/window/aggregations.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:428 process with pid:140840 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/window/indexers.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:439 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/reshape.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:452 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/groupby.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:469 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/json.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:470 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/parsers.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:489 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/testing.cpython-311-x86_64-linux-gnu.so
+2023-10-19 17:32:12:502 process with pid:140840 read from file:/home/pr/exp1/temp_data.csv
+2023-10-19 17:32:12:503 process with pid:140840 wrote to file:/home/pr/exp1/model.ckpt
