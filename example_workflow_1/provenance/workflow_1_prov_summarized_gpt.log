@@ -41,17 +41,17 @@
 2023-10-19 17:32:12:148 process with pid:140840 executed file:/root/usr/bin/python3.11
 2023-10-19 17:32:12:149 process with pid:140840 loaded file:/root/usr/bin/python3.11
 2023-10-19 17:32:12:173 process with pid:140840 read from file:/home/pr/exp1/train_model.py
-2023-10-19 17:32:12:190 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/core/_multiarray_umath.cpython-311-x86_64-linux-gnu.
+2023-10-19 17:32:12:190 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/core/_multiarray_umath.cpython-311-x86_64-linux-gnu.so
 2023-10-19 17:32:12:191 process with pid:140840 loaded file:/home/pr/venv/lib/python3.11/site-packages/numpy.libs/libopenblas64_p-r0-0cf96a72.3.23.dev.so
 2023-10-19 17:32:12:191 process with pid:140840 loaded file:/home/pr/venv/lib/python3.11/site-packages/numpy.libs/libgfortran-040039e1.so.5.0.0
 2023-10-19 17:32:12:191 process with pid:140840 loaded file:/home/pr/venv/lib/python3.11/site-packages/numpy.libs/libquadmath-96973f99.so.0.0.0
-2023-10-19 17:32:12:247 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/core/_multiarray_tests.cpython-311-x86_64-linux-gnu.
+2023-10-19 17:32:12:247 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/core/_multiarray_tests.cpython-311-x86_64-linux-gnu.so
 2023-10-19 17:32:12:266 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/linalg/_umath_linalg.cpython-311-x86_64-linux-gnu.so
-2023-10-19 17:32:12:288 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/fft/_pocketfft_internal.cpython-311-x86_64-linux-gn
+2023-10-19 17:32:12:288 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/fft/_pocketfft_internal.cpython-311-x86_64-linux-gnu.so
 2023-10-19 17:32:12:292 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/mtrand.cpython-311-x86_64-linux-gnu.so
 2023-10-19 17:32:12:293 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/bit_generator.cpython-311-x86_64-linux-gnu.so
 2023-10-19 17:32:12:293 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/_common.cpython-311-x86_64-linux-gnu.so
-2023-10-19 17:32:12:300 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/_bounded_integers.cpython-311-x86_64-linux-gnu.
+2023-10-19 17:32:12:300 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/_bounded_integers.cpython-311-x86_64-linux-gnu.so
 2023-10-19 17:32:12:301 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/_mt19937.cpython-311-x86_64-linux-gnu.so
 2023-10-19 17:32:12:301 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/_philox.cpython-311-x86_64-linux-gnu.so
 2023-10-19 17:32:12:302 process with pid:140840 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/_pcg64.cpython-311-x86_64-linux-gnu.so
