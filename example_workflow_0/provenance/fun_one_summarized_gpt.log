@@ -1,0 +1,273 @@
+2023-10-21 19:59:54:754 process with pid:227773 ran command "/home/pr/venv/bin/python3" with arguments: "analysis.py"
+2023-10-21 19:59:54:754 process with pid:227773 executed file:/root/usr/bin/python3.11
+2023-10-21 19:59:54:755 process with pid:227773 loaded file:/root/usr/bin/python3.11
+2023-10-21 19:59:54:772 process with pid:227773 read from file:/home/pr/exp0/analysis.py
+2023-10-21 19:59:54:784 process with pid:227773 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/core/_multiarray_umath.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:54:801 process with pid:227773 loaded file:/home/pr/venv/lib/python3.11/site-packages/numpy.libs/libopenblas64_p-r0-0cf96a72.3.23.dev.so
+2023-10-21 19:59:54:802 process with pid:227773 loaded file:/home/pr/venv/lib/python3.11/site-packages/numpy.libs/libgfortran-040039e1.so.5.0.0
+2023-10-21 19:59:54:809 process with pid:227773 loaded file:/home/pr/venv/lib/python3.11/site-packages/numpy.libs/libquadmath-96973f99.so.0.0.0
+2023-10-21 19:59:54:857 process with pid:227773 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/core/_multiarray_tests.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:54:888 process with pid:227773 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/linalg/_umath_linalg.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:54:925 process with pid:227773 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/fft/_pocketfft_internal.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:54:933 process with pid:227773 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/mtrand.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:54:936 process with pid:227773 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/bit_generator.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:54:937 process with pid:227773 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/_common.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:54:949 process with pid:227773 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/_bounded_integers.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:54:951 process with pid:227773 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/_mt19937.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:54:952 process with pid:227773 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/_philox.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:54:954 process with pid:227773 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/_pcg64.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:54:955 process with pid:227773 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/_sfc64.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:54:956 process with pid:227773 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/_generator.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:54:991 process with pid:227773 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/pandas_parser.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:54:992 process with pid:227773 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/pandas_datetime.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:54:992 process with pid:227773 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/interval.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:54:996 process with pid:227773 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/hashtable.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:000 process with pid:227773 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/missing.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:002 process with pid:227773 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/dtypes.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:003 process with pid:227773 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/np_datetime.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:004 process with pid:227773 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/conversion.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:006 process with pid:227773 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/base.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:007 process with pid:227773 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/offsets.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:009 process with pid:227773 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/timestamps.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:011 process with pid:227773 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/nattype.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:012 process with pid:227773 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/timedeltas.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:014 process with pid:227773 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/timezones.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:021 process with pid:227773 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/fields.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:022 process with pid:227773 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/ccalendar.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:028 process with pid:227773 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/tzconversion.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:029 process with pid:227773 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/properties.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:030 process with pid:227773 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/parsing.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:036 process with pid:227773 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/strptime.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:037 process with pid:227773 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/period.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:039 process with pid:227773 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/vectorized.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:040 process with pid:227773 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/ops_dispatch.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:041 process with pid:227773 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/algos.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:047 process with pid:227773 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/lib.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:058 process with pid:227773 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/ops.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:065 process with pid:227773 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/arrays.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:075 process with pid:227773 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/tslib.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:082 process with pid:227773 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/sparse.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:093 process with pid:227773 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/indexing.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:095 process with pid:227773 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/index.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:098 process with pid:227773 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/internals.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:099 process with pid:227773 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/join.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:112 process with pid:227773 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/writers.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:125 process with pid:227773 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/window/aggregations.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:129 process with pid:227773 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/window/indexers.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:140 process with pid:227773 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/reshape.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:155 process with pid:227773 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/groupby.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:190 process with pid:227773 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/json.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:193 process with pid:227773 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/parsers.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:223 process with pid:227773 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/testing.cpython-311-x86_64-linux-gnu.so
+2023-10-21 19:59:55:242 process with pid:227773 read from file:/home/pr/exp0/analysis.py
+2023-10-21 20:00:11:575 process with pid:227790 ran command "/home/pr/venv/bin/pip" with arguments: "install matplotlib"
+2023-10-21 20:00:11:575 process with pid:227790 executed file:/home/pr/venv/bin/pip
+2023-10-21 20:00:11:575 process with pid:227790 loaded file:/root/usr/bin/python3.11
+2023-10-21 20:00:11:926 process with pid:227791 ran command "/home/pr/venv/bin/lsb_release" with arguments: "-a"
+2023-10-21 20:00:11:926 process with pid:227791 ran command "/home/pr/.local/bin/lsb_release" with arguments: "-a"
+2023-10-21 20:00:11:926 process with pid:227791 ran command "/home/pr/bin/lsb_release" with arguments: "-a"
+2023-10-21 20:00:11:927 process with pid:227791 ran command "/usr/local/bin/lsb_release" with arguments: "-a"
+2023-10-21 20:00:11:927 process with pid:227791 ran command "/usr/bin/lsb_release" with arguments: "-a"
+2023-10-21 20:00:11:927 process with pid:227791 ran command "/usr/local/sbin/lsb_release" with arguments: "-a"
+2023-10-21 20:00:11:927 process with pid:227791 ran command "/usr/sbin/lsb_release" with arguments: "-a"
+2023-10-21 20:00:11:927 process with pid:227792 ran command "/home/pr/venv/bin/uname" with arguments: "-rs"
+2023-10-21 20:00:11:928 process with pid:227792 ran command "/home/pr/.local/bin/uname" with arguments: "-rs"
+2023-10-21 20:00:11:928 process with pid:227792 ran command "/home/pr/bin/uname" with arguments: "-rs"
+2023-10-21 20:00:11:928 process with pid:227792 ran command "/usr/local/bin/uname" with arguments: "-rs"
+2023-10-21 20:00:11:928 process with pid:227792 ran command "/usr/bin/uname" with arguments: "-rs"
+2023-10-21 20:00:11:928 process with pid:227792 executed file:/root/usr/bin/uname
+2023-10-21 20:00:11:928 process with pid:227792 loaded file:/root/usr/bin/uname
+2023-10-21 20:00:11:979 process with pid:227790 connected to address:localhost
+2023-10-21 20:00:12:125 process with pid:227790 connected to ip:151.101.128.223
+2023-10-21 20:00:12:361 process with pid:227790 connected to ip:151.101.0.223
+2023-10-21 20:00:12:885 process with pid:227790 connected to ip:151.101.64.223
+2023-10-21 20:00:13:708 process with pid:227790 connected to ip:151.101.192.223
+2023-10-21 20:00:14:051 process with pid:227790 connected to ip:2a04:4e42:600:0:a00::
+2023-10-21 20:00:14:062 process with pid:227790 connected to ip:2a04:4e42:200:0:a00::
+2023-10-21 20:00:14:074 process with pid:227790 connected to ip:2a04:4e42:400:0:a00::
+2023-10-21 20:00:14:362 process with pid:227790 connected to ip:2a04:4e42:0:0:a00::
+2023-10-21 20:00:14:608 process with pid:227790 connected to ip:151.101.128.223
+2023-10-21 20:00:14:608 process with pid:227790 connected to address:localhost
+2023-10-21 20:00:14:859 process with pid:227790 connected to ip:2a04:4e42:32:0:a00::
+2023-10-21 20:00:15:116 process with pid:227790 connected to ip:151.101.213.55
+2023-10-21 20:00:23:633 process with pid:227800 ran command "/home/pr/venv/bin/python3" with arguments: "analysis.py"
+2023-10-21 20:00:23:634 process with pid:227800 executed file:/root/usr/bin/python3.11
+2023-10-21 20:00:23:634 process with pid:227800 loaded file:/root/usr/bin/python3.11
+2023-10-21 20:00:23:659 process with pid:227800 read from file:/home/pr/exp0/analysis.py
+2023-10-21 20:00:23:678 process with pid:227800 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/core/_multiarray_umath.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:678 process with pid:227800 loaded file:/home/pr/venv/lib/python3.11/site-packages/numpy.libs/libopenblas64_p-r0-0cf96a72.3.23.dev.so
+2023-10-21 20:00:23:679 process with pid:227800 loaded file:/home/pr/venv/lib/python3.11/site-packages/numpy.libs/libgfortran-040039e1.so.5.0.0
+2023-10-21 20:00:23:679 process with pid:227800 loaded file:/home/pr/venv/lib/python3.11/site-packages/numpy.libs/libquadmath-96973f99.so.0.0.0
+2023-10-21 20:00:23:732 process with pid:227800 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/core/_multiarray_tests.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:750 process with pid:227800 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/linalg/_umath_linalg.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:771 process with pid:227800 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/fft/_pocketfft_internal.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:775 process with pid:227800 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/mtrand.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:776 process with pid:227800 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/bit_generator.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:776 process with pid:227800 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/_common.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:783 process with pid:227800 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/_bounded_integers.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:784 process with pid:227800 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/_mt19937.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:784 process with pid:227800 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/_philox.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:784 process with pid:227800 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/_pcg64.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:785 process with pid:227800 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/_sfc64.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:785 process with pid:227800 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/_generator.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:811 process with pid:227800 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/pandas_parser.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:811 process with pid:227800 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/pandas_datetime.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:811 process with pid:227800 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/interval.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:812 process with pid:227800 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/hashtable.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:813 process with pid:227800 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/missing.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:814 process with pid:227800 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/dtypes.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:814 process with pid:227800 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/np_datetime.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:815 process with pid:227800 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/conversion.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:816 process with pid:227800 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/base.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:816 process with pid:227800 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/offsets.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:817 process with pid:227800 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/timestamps.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:817 process with pid:227800 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/nattype.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:818 process with pid:227800 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/timedeltas.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:818 process with pid:227800 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/timezones.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:823 process with pid:227800 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/fields.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:823 process with pid:227800 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/ccalendar.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:827 process with pid:227800 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/tzconversion.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:829 process with pid:227800 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/properties.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:829 process with pid:227800 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/parsing.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:833 process with pid:227800 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/strptime.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:834 process with pid:227800 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/period.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:835 process with pid:227800 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/vectorized.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:835 process with pid:227800 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/ops_dispatch.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:835 process with pid:227800 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/algos.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:837 process with pid:227800 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/lib.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:847 process with pid:227800 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/ops.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:853 process with pid:227800 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/arrays.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:862 process with pid:227800 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/tslib.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:867 process with pid:227800 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/sparse.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:877 process with pid:227800 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/indexing.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:878 process with pid:227800 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/index.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:879 process with pid:227800 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/internals.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:880 process with pid:227800 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/join.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:910 process with pid:227800 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/writers.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:932 process with pid:227800 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/window/aggregations.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:934 process with pid:227800 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/window/indexers.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:951 process with pid:227800 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/reshape.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:969 process with pid:227800 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/groupby.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:988 process with pid:227800 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/json.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:23:989 process with pid:227800 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/parsers.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:24:009 process with pid:227800 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/testing.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:24:028 process with pid:227800 loaded file:/home/pr/venv/lib/python3.11/site-packages/matplotlib/_c_internal_utils.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:24:037 process with pid:227800 loaded file:/home/pr/venv/lib/python3.11/site-packages/PIL/_imaging.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:24:037 process with pid:227800 loaded file:/home/pr/venv/lib/python3.11/site-packages/Pillow.libs/libtiff-91af027d.so.6.0.2
+2023-10-21 20:00:24:037 process with pid:227800 loaded file:/home/pr/venv/lib/python3.11/site-packages/Pillow.libs/libjpeg-32b76cef.so.62.4.0
+2023-10-21 20:00:24:037 process with pid:227800 loaded file:/home/pr/venv/lib/python3.11/site-packages/Pillow.libs/libopenjp2-20e347f0.so.2.5.0
+2023-10-21 20:00:24:037 process with pid:227800 loaded file:/home/pr/venv/lib/python3.11/site-packages/Pillow.libs/libxcb-f0538cc0.so.1.1.0
+2023-10-21 20:00:24:037 process with pid:227800 loaded file:/home/pr/venv/lib/python3.11/site-packages/Pillow.libs/liblzma-1e44b93d.so.5.4.4
+2023-10-21 20:00:24:037 process with pid:227800 loaded file:/home/pr/venv/lib/python3.11/site-packages/Pillow.libs/libXau-154567c4.so.6.0.0
+2023-10-21 20:00:24:044 process with pid:227800 loaded file:/home/pr/venv/lib/python3.11/site-packages/matplotlib/_path.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:24:073 process with pid:227800 loaded file:/home/pr/venv/lib/python3.11/site-packages/matplotlib/ft2font.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:24:074 process with pid:227800 loaded file:/home/pr/venv/lib/python3.11/site-packages/kiwisolver/_cext.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:24:174 process with pid:227802 ran command "/home/pr/venv/bin/fc-list" with arguments: "--help"
+2023-10-21 20:00:24:175 process with pid:227802 ran command "/home/pr/.local/bin/fc-list" with arguments: "--help"
+2023-10-21 20:00:24:175 process with pid:227802 ran command "/home/pr/bin/fc-list" with arguments: "--help"
+2023-10-21 20:00:24:175 process with pid:227802 ran command "/usr/local/bin/fc-list" with arguments: "--help"
+2023-10-21 20:00:24:175 process with pid:227802 ran command "/usr/bin/fc-list" with arguments: "--help"
+2023-10-21 20:00:24:175 process with pid:227802 executed file:/root/usr/bin/fc-list
+2023-10-21 20:00:24:176 process with pid:227802 loaded file:/root/usr/bin/fc-list
+2023-10-21 20:00:24:179 process with pid:227803 ran command "/home/pr/venv/bin/fc-list" with arguments: "--format=%{file}
+"
+2023-10-21 20:00:24:179 process with pid:227803 ran command "/home/pr/.local/bin/fc-list" with arguments: "--format=%{file}
+"
+2023-10-21 20:00:24:179 process with pid:227803 ran command "/home/pr/bin/fc-list" with arguments: "--format=%{file}
+"
+2023-10-21 20:00:24:179 process with pid:227803 ran command "/usr/local/bin/fc-list" with arguments: "--format=%{file}
+"
+2023-10-21 20:00:24:179 process with pid:227803 ran command "/usr/bin/fc-list" with arguments: "--format=%{file}
+"
+2023-10-21 20:00:24:179 process with pid:227803 executed file:/root/usr/bin/fc-list
+2023-10-21 20:00:24:180 process with pid:227803 loaded file:/root/usr/bin/fc-list
+2023-10-21 20:00:25:171 process with pid:227800 loaded file:/home/pr/venv/lib/python3.11/site-packages/matplotlib/_image.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:25:341 process with pid:227800 read from file:/home/pr/exp0/data.csv
+2023-10-21 20:00:25:361 process with pid:227800 wrote to file:/home/pr/exp0/data_cleaned.csv
+2023-10-21 20:00:25:364 process with pid:227800 read from file:/home/pr/exp0/analysis.py
+2023-10-21 20:00:41:238 process with pid:227818 ran command "/usr/bin/vim" with arguments: "analysis.py"
+2023-10-21 20:00:41:238 process with pid:227818 executed file:/root/usr/bin/vim
+2023-10-21 20:00:41:239 process with pid:227818 loaded file:/root/usr/bin/vim
+2023-10-21 20:00:41:297 process with pid:227818 wrote to file:/home/pr/exp0/.analysis.py.swp
+2023-10-21 20:00:41:298 process with pid:227818 read from file:/home/pr/exp0/analysis.py
+2023-10-21 20:00:50:736 process with pid:227818 wrote to file:/home/pr/exp0/.analysis.py.swp
+2023-10-21 20:00:57:214 process with pid:227818 wrote to file:/home/pr/exp0/analysis.py
+2023-10-21 20:00:57:236 process with pid:227818 wrote to file:/home/pr/exp0/.analysis.py.swp
+2023-10-21 20:00:59:302 process with pid:227836 ran command "/home/pr/venv/bin/python3" with arguments: "analysis.py"
+2023-10-21 20:00:59:302 process with pid:227836 executed file:/root/usr/bin/python3.11
+2023-10-21 20:00:59:303 process with pid:227836 loaded file:/root/usr/bin/python3.11
+2023-10-21 20:00:59:327 process with pid:227836 read from file:/home/pr/exp0/analysis.py
+2023-10-21 20:00:59:347 process with pid:227836 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/core/_multiarray_umath.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:348 process with pid:227836 loaded file:/home/pr/venv/lib/python3.11/site-packages/numpy.libs/libopenblas64_p-r0-0cf96a72.3.23.dev.so
+2023-10-21 20:00:59:348 process with pid:227836 loaded file:/home/pr/venv/lib/python3.11/site-packages/numpy.libs/libgfortran-040039e1.so.5.0.0
+2023-10-21 20:00:59:349 process with pid:227836 loaded file:/home/pr/venv/lib/python3.11/site-packages/numpy.libs/libquadmath-96973f99.so.0.0.0
+2023-10-21 20:00:59:396 process with pid:227836 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/core/_multiarray_tests.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:412 process with pid:227836 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/linalg/_umath_linalg.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:431 process with pid:227836 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/fft/_pocketfft_internal.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:435 process with pid:227836 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/mtrand.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:435 process with pid:227836 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/bit_generator.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:436 process with pid:227836 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/_common.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:442 process with pid:227836 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/_bounded_integers.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:443 process with pid:227836 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/_mt19937.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:443 process with pid:227836 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/_philox.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:444 process with pid:227836 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/_pcg64.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:444 process with pid:227836 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/_sfc64.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:444 process with pid:227836 loaded file:/pr/venv/lib/python3.11/site-packages/numpy/random/_generator.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:470 process with pid:227836 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/pandas_parser.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:470 process with pid:227836 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/pandas_datetime.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:471 process with pid:227836 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/interval.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:471 process with pid:227836 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/hashtable.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:472 process with pid:227836 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/missing.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:473 process with pid:227836 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/dtypes.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:473 process with pid:227836 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/np_datetime.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:474 process with pid:227836 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/conversion.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:475 process with pid:227836 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/base.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:475 process with pid:227836 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/offsets.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:476 process with pid:227836 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/timestamps.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:476 process with pid:227836 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/nattype.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:477 process with pid:227836 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/timedeltas.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:477 process with pid:227836 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/timezones.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:482 process with pid:227836 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/fields.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:482 process with pid:227836 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/ccalendar.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:487 process with pid:227836 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/tzconversion.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:488 process with pid:227836 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/properties.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:488 process with pid:227836 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/parsing.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:492 process with pid:227836 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/strptime.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:493 process with pid:227836 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/period.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:494 process with pid:227836 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/tslibs/vectorized.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:494 process with pid:227836 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/ops_dispatch.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:495 process with pid:227836 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/algos.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:496 process with pid:227836 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/lib.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:506 process with pid:227836 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/ops.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:512 process with pid:227836 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/arrays.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:521 process with pid:227836 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/tslib.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:527 process with pid:227836 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/sparse.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:536 process with pid:227836 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/indexing.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:537 process with pid:227836 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/index.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:538 process with pid:227836 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/internals.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:539 process with pid:227836 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/join.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:552 process with pid:227836 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/writers.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:563 process with pid:227836 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/window/aggregations.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:565 process with pid:227836 loaded file:/venv/lib/python3.11/site-packages/pandas/_libs/window/indexers.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:576 process with pid:227836 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/reshape.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:589 process with pid:227836 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/groupby.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:605 process with pid:227836 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/json.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:606 process with pid:227836 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/parsers.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:626 process with pid:227836 loaded file:/pr/venv/lib/python3.11/site-packages/pandas/_libs/testing.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:645 process with pid:227836 loaded file:/home/pr/venv/lib/python3.11/site-packages/matplotlib/_c_internal_utils.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:654 process with pid:227836 loaded file:/home/pr/venv/lib/python3.11/site-packages/PIL/_imaging.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:654 process with pid:227836 loaded file:/home/pr/venv/lib/python3.11/site-packages/Pillow.libs/libtiff-91af027d.so.6.0.2
+2023-10-21 20:00:59:654 process with pid:227836 loaded file:/home/pr/venv/lib/python3.11/site-packages/Pillow.libs/libjpeg-32b76cef.so.62.4.0
+2023-10-21 20:00:59:654 process with pid:227836 loaded file:/home/pr/venv/lib/python3.11/site-packages/Pillow.libs/libopenjp2-20e347f0.so.2.5.0
+2023-10-21 20:00:59:655 process with pid:227836 loaded file:/home/pr/venv/lib/python3.11/site-packages/Pillow.libs/libxcb-f0538cc0.so.1.1.0
+2023-10-21 20:00:59:655 process with pid:227836 loaded file:/home/pr/venv/lib/python3.11/site-packages/Pillow.libs/liblzma-1e44b93d.so.5.4.4
+2023-10-21 20:00:59:655 process with pid:227836 loaded file:/home/pr/venv/lib/python3.11/site-packages/Pillow.libs/libXau-154567c4.so.6.0.0
+2023-10-21 20:00:59:661 process with pid:227836 loaded file:/home/pr/venv/lib/python3.11/site-packages/matplotlib/_path.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:690 process with pid:227836 loaded file:/home/pr/venv/lib/python3.11/site-packages/matplotlib/ft2font.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:691 process with pid:227836 loaded file:/home/pr/venv/lib/python3.11/site-packages/kiwisolver/_cext.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:786 process with pid:227836 loaded file:/home/pr/venv/lib/python3.11/site-packages/matplotlib/_image.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:00:59:902 process with pid:227836 read from file:/home/pr/exp0/data.csv
+2023-10-21 20:00:59:906 process with pid:227836 wrote to file:/home/pr/exp0/data_cleaned.csv
+2023-10-21 20:00:59:908 process with pid:227836 read from file:/home/pr/exp0/data_cleaned.csv
+2023-10-21 20:00:59:948 process with pid:227836 loaded file:/pr/venv/lib/python3.11/site-packages/matplotlib/backends/_backend_agg.cpython-311-x86_64-linux-gnu.so
+2023-10-21 20:01:00:167 process with pid:227836 wrote to file:/home/pr/exp0/plot.png

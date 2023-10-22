@@ -556,7 +556,7 @@
 {"type":"Entity","id":"33510","annotations":{"inode_inum":"33510","uid":"0","path":"/root/usr/lib64/libnss_resolve.so.2"}}
 {"type":"Activity","id":"227790","annotations":{"pid":"227790"}}
 {"type":"Used","to":"33510","from":"227790","annotations":{"operation":"mmap","datetime":"2023-10-21 20:00:11:979"}}
-{"type":"Entity","id":"1-0-0","annotations":{"host":"localhost","serv":"/run/systemd/r","family":"AF_UNIX"}}
+{"type":"Entity","id":"1-0-0","annotations":{"host":"localhost","serv":"/run/systemd/r","family":"AF_UNIX"}}
 {"type":"Activity","id":"227790","annotations":{"pid":"227790"}}
 {"type":"Used","to":"1-0-0","from":"227790","annotations":{"operation":"socket_connect","datetime":"2023-10-21 20:00:11:979"}}
 {"type":"Entity","id":"2-151.101.128.223-443","annotations":{"host":"151.101.128.223","serv":"443","host_name":"151.101.128.223","serv_name":"https","family":"AF_INET"}}
@@ -586,7 +586,7 @@
 {"type":"Entity","id":"2-151.101.128.223-443","annotations":{"host":"151.101.128.223","serv":"443","host_name":"151.101.128.223","serv_name":"https","family":"AF_INET"}}
 {"type":"Activity","id":"227790","annotations":{"pid":"227790"}}
 {"type":"Used","to":"2-151.101.128.223-443","from":"227790","annotations":{"operation":"socket_connect","datetime":"2023-10-21 20:00:14:608"}}
-{"type":"Entity","id":"1-0-0","annotations":{"host":"localhost","serv":"/run/systemd/r","family":"AF_UNIX"}}
+{"type":"Entity","id":"1-0-0","annotations":{"host":"localhost","serv":"/run/systemd/r","family":"AF_UNIX"}}
 {"type":"Activity","id":"227790","annotations":{"pid":"227790"}}
 {"type":"Used","to":"1-0-0","from":"227790","annotations":{"operation":"socket_connect","datetime":"2023-10-21 20:00:14:608"}}
 {"type":"Entity","id":"10-2a04:4e42:32:0:a00::-443","annotations":{"host":"2a04:4e42:32:0:a00::","serv":"443","host_name":"2a04:4e42:32:0:a00::","serv_name":"https","family":"AF_INET6"}}
