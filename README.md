@@ -5,6 +5,8 @@ In the paper "The Case for Comprehension via Provenance", we present a text-base
 We provide the resources to reproduce our summarization.
 Our evaluation uses a Jupyter notebook to anayze and plot the study data.
 
+PDF of the user study survey: [qualtrics_survey.pdf](https://github.com/nboufford/prov-comprehension-artifacts/blob/main/qualtrics_survey.pdf).
+
 ### Text Summarization
 
 The intructions for text summarization are located in [summarization](https://github.com/nboufford/prov-comprehension-artifacts/tree/main/summarization).
