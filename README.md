@@ -7,6 +7,20 @@ Our evaluation uses a Jupyter notebook to anayze and plot the study data.
 
 PDF of the user study survey: [qualtrics_survey.pdf](https://github.com/nboufford/prov-comprehension-artifacts/blob/main/qualtrics_survey.pdf).
 
+### Table of Contents
+1. [Introduction]()
+2. [Table of Contents]()
+3. [Estimated Time and Resources]()
+4. [User Study Materials]()
+6. [Reproducing the User Study Evaluation]()
+
+### Estimated Time and Resources
+
+## User Study Materials
+
+### Text Summary Generation
+TODO
+
 ### Text Summarization
 
 The intructions for text summarization are located in [summarization](https://github.com/nboufford/prov-comprehension-artifacts/tree/main/summarization).
@@ -22,3 +36,6 @@ We manually generated the node-link diagrams for our study. The node-link diagra
 | example_workflow_1  | Task 2 | R preprocessing script followed by Python model training |   
 | example_workflow_2  | Task 3 | Running the same train_model script with 3 different cli args, then evaluating which model is best |
 | example_workflow_3  | Task 4 | Running a py preprocess script, running a train_model which doesn't output anything, running train_model a second time to get output, then running an evaluation on the model |
+
+## Reproducing the User Study Evaluation
+TODO
