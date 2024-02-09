@@ -17,7 +17,7 @@ Our evaluation uses a Jupyter notebook to anayze and plot the study data.
 TODO
 
 ## Reproducing the User Study Evaluation
-We ran our user study evaluation using a Jupyter Notebook. The data and notebook can be found [link]. Running the notebook top to bottom will produce the figures in the paper. 
+We ran our user study evaluation using a Jupyter Notebook. The data and notebook can be found in [study-evaluation](https://github.com/nboufford/prov-comprehension-artifacts/tree/main/study-evaluation). Running the notebook top to bottom will produce the figures in the paper. 
 
 ## User Study Materials
 
