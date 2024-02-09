@@ -5,18 +5,23 @@ In the paper "The Case for Comprehension via Provenance", we present a text-base
 We provide the resources to reproduce our summarization.
 Our evaluation uses a Jupyter notebook to anayze and plot the study data.
 
-### Table of Contents
+## Table of Contents
 1. [Introduction](https://github.com/nboufford/prov-comprehension-artifacts/tree/main?tab=readme-ov-file#reproducibility-artifacts-for-the-case-for-comprehension-via-provenance)
 2. [Table of Contents](https://github.com/nboufford/prov-comprehension-artifacts/tree/main?tab=readme-ov-file#table-of-contents)
 3. [Estimated Time and Resources](https://github.com/nboufford/prov-comprehension-artifacts/tree/main?tab=readme-ov-file#estimated-time-and-resources)
-4. [User Study Materials](https://github.com/nboufford/prov-comprehension-artifacts/tree/main?tab=readme-ov-file#user-study-materials)
-6. [Reproducing the User Study Evaluation](https://github.com/nboufford/prov-comprehension-artifacts/tree/main?tab=readme-ov-file#reproducing-the-user-study-evaluation)
+4. [Reproducing the User Study Evaluation](https://github.com/nboufford/prov-comprehension-artifacts/tree/main?tab=readme-ov-file#reproducing-the-user-study-evaluation)
+5. [User Study Materials](https://github.com/nboufford/prov-comprehension-artifacts/tree/main?tab=readme-ov-file#user-study-materials)
 
-### Estimated Time and Resources
+## Estimated Time and Resources
+
+TODO
+
+## Reproducing the User Study Evaluation
+We ran our user study evaluation using a Jupyter Notebook. The data and notebook can be found [link]. Running the notebook top to bottom will produce the figures in the paper. 
 
 ## User Study Materials
 
-PDF of the user study survey: [qualtrics_survey.pdf](https://github.com/nboufford/prov-comprehension-artifacts/blob/main/qualtrics_survey.pdf).
+PDF of the full user study survey: [qualtrics_survey.pdf](https://github.com/nboufford/prov-comprehension-artifacts/blob/main/qualtrics_survey.pdf).
 
 ### Study Workflows
 | Workflow | Title |  Description | 
@@ -36,6 +41,3 @@ The intructions for text summarization are located in [summarization](https://gi
 ### Node-link Diagram Generation
 
 We manually generated the node-link diagrams for our study. The node-link diagrams are located in the example_workflow directories in [workflows](https://github.com/nboufford/prov-comprehension-artifacts/tree/main/workflows).
-
-## Reproducing the User Study Evaluation
-We ran our user study evaluation using a Jupyter Notebook. 
