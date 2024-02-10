@@ -14,7 +14,8 @@ Our evaluation uses a Jupyter notebook to anayze and plot the study data.
 
 ## Estimated Time and Resources
 
-TODO
+The instructions have been tested using Jupyter Lab. The Python environment is provided in [study-evaluation](https://github.com/nboufford/prov-comprehension-artifacts/tree/main/study-evaluation). 
+We reproduced the evaluation using the following instructions in approximately 10 minutes. This included downloading the notebook, running the notebook, and checking the results.
 
 ## Reproducing the User Study Evaluation
 We ran our user study evaluation using a Jupyter Notebook. The data and notebook can be found in [study-evaluation](https://github.com/nboufford/prov-comprehension-artifacts/tree/main/study-evaluation). Running the notebook top to bottom will produce the figures in the paper. 
