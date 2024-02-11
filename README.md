@@ -2,8 +2,8 @@
 
 In the paper "The Case for Comprehension via Provenance", we present a text-based summarization method for provenance graphs and perform a user study to evaluate users' preference compared to node-link diagrams for reproducibility tasks.
 
-We provide the resources to reproduce our summarization.
 Our evaluation uses a Jupyter notebook to anayze and plot the study data.
+We also provide our code for summarizing provenance graphs.
 
 ## Table of Contents
 1. [Introduction](https://github.com/nboufford/prov-comprehension-artifacts/tree/main?tab=readme-ov-file#reproducibility-artifacts-for-the-case-for-comprehension-via-provenance)
@@ -14,7 +14,7 @@ Our evaluation uses a Jupyter notebook to anayze and plot the study data.
 
 ## Estimated Time and Resources
 
-The instructions have been tested using Jupyter Lab. The Python environment is provided in [study-evaluation](https://github.com/nboufford/prov-comprehension-artifacts/tree/main/study-evaluation). 
+The instructions have been tested using Jupyter Lab. The Python environment is provided in [study-evaluation/requirements.txt](https://github.com/nboufford/prov-comprehension-artifacts/tree/main/study-evaluation/requirements.txt). 
 We reproduced the evaluation using the following instructions in approximately 10 minutes. This included downloading the notebook, running the notebook, and checking the results.
 
 ## Reproducing the User Study Evaluation
@@ -33,7 +33,7 @@ PDF of the full user study survey: [qualtrics_survey.pdf](https://github.com/nbo
 | [example_workflow_3](https://github.com/nboufford/prov-comprehension-artifacts/tree/main/workflows/example_workflow_3)  | Task 4 | Running a py preprocess script, running a train_model which doesn't output anything, running train_model a second time to get output, then running an evaluation on the model |
 
 ### Text Summary Generation
-To generate the text summaries in the user study, we used Thoth to collect provenance for the workflows.
+To generate the text summaries in the user study, we used [Thoth](https://github.com/ubc-systopia/thoth) to collect provenance for the workflows.
 We then summarized the provenance using our preprocessing scripts.
 We then took the preprocessed provenance and input this to GPT with our prompt.
 
