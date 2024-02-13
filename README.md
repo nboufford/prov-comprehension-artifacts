@@ -1,6 +1,6 @@
-# Reproducibility Artifacts for "The Case for Comprehension via Provenance"
+# Reproducibility Artifacts for "Computational Experiment Comprehension using Provenance Summarization"
 
-In the paper "The Case for Comprehension via Provenance", we present a text-based summarization method for provenance graphs and perform a user study to evaluate users' preference compared to node-link diagrams for reproducibility tasks.
+In the paper "Computational Experiment Comprehension using Provenance Summarization", we present a text-based summarization method for provenance graphs and perform a user study to evaluate users' preference compared to node-link diagrams for reproducibility tasks.
 
 Our evaluation uses a Jupyter notebook to anayze and plot the study data.
 We also provide our code for summarizing provenance graphs.
@@ -19,6 +19,20 @@ We reproduced the evaluation using the following instructions in approximately 1
 
 ## Reproducing the User Study Evaluation
 We ran our user study evaluation using a Jupyter Notebook. The data and notebook can be found in [study-evaluation](https://github.com/nboufford/prov-comprehension-artifacts/tree/main/study-evaluation). Running the notebook top to bottom will produce the figures in the paper. 
+
+To create your own environment using conda to run this analysis use the following instructions from the top-level directory of this repository:
+
+```{bash}
+conda create --name comprehension python=3.9
+
+conda activate comprehension
+
+pip install -r study-evaluation/requirements.txt
+
+jupyter lab
+```
+
+Once Jupyter is running, open it in your browser and navigate to the `study-evaluation/eval.ipynb` notebook. This notebook can be run from top to bottom, and it will generate new figures within a new directory: `study-evaluation/fig`. The results saved to this folder can then be compared to the authors results saved in `paper-figures`. 
 
 ## User Study Materials
 
