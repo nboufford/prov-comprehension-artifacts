@@ -1,5 +1,9 @@
 # Text Summarization
 
+This directory documents the processing pipeline to go from raw data to LLM-generated summaries. We provide our complete set of raw provenance, intermediate processed logs, and final GPT-4 output in the `workflows` directory found at the root of this repository. 
+
+We also provide a step-by-step example of how to use the scripts in this directory to process and format an existing raw provenance log. 
+
 ## Usage
 1. Collect system provenance using Thoth.
 2. Use raw log as edge reduction input to reduce log size.
@@ -38,4 +42,23 @@ completion = client.chat.completions.create(
 print(completion.choices[0].message)
 ```
 
- 
+ ### Step-by-step example
+
+Make sure to navigate to this directory if already here
+```{bash}
+cd summarization
+```
+
+First summarize the raw provenance from workflow 0.
+This script will generate a file named `workflow_0_prov_summarized.json` in this directory.
+
+```{bash}
+python summarize.py ../workflows/example_workflow_0/provenance/workflow_0_prov.json
+```
+
+Next format the summarized log into our natural language representation (this also generates a list of the libraries used).
+This script will output a file named `workflow_0_prov_summarized_gpt.log` which contains the text which should be used to prompt GPT-4 with the prompting instruction found above.
+
+```{bash}
+python format.py workflow_0_prov_summarized.json 
+```
