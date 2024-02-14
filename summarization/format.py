@@ -1,6 +1,8 @@
 import json
 import sys
 
+from pathlib import Path
+
 def get_activity_string(activity_obj):
     return "process with pid:" + activity_obj['id']
 
@@ -70,13 +72,13 @@ def prov_format_gpt(prov_file_name):
         print(msg)
         return
 
-    str = prov_file_name.split(".", 1)[0]
+    str = Path(prov_file_name).stem
     new_log_name = str + "_gpt.log"
     print("opening file " + new_log_name)
 
     new_log = open(new_log_name, "a")
 
-    libs_list = open("libraries_list.txt", "a")
+    libs_list = open(str + "_libraries_list.txt", "a")
 
     prov_lines = f_prov.readlines()
 

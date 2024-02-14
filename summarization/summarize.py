@@ -1,6 +1,8 @@
 import json
 import sys
 
+from pathlib import Path
+
 def remove_map(obj1, obj2, entity_obj):
     if (obj1['annotations']['operation'] == "mmap"):
         if (entity_obj['annotations']['path'][-12:] == 'lib-dynload/'):
@@ -63,7 +65,7 @@ def prov_summarize_edges(prov_file_name):
         print(msg)
         return
 
-    str = prov_file_name.split(".", 1)[0]
+    str = Path(prov_file_name).stem
     new_log_name = str + "_summarized.json"
     print("opening file " + new_log_name)
 
