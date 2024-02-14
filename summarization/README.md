@@ -44,7 +44,7 @@ print(completion.choices[0].message)
 
  ### Step-by-step example
 
-Make sure to navigate to this directory if already here
+Make sure to navigate to this directory if not already here
 ```{bash}
 cd summarization
 ```
