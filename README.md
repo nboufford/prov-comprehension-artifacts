@@ -1,5 +1,7 @@
 # Reproducibility Artifacts for "Computational Experiment Comprehension using Provenance Summarization"
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10627858.svg)](https://doi.org/10.5281/zenodo.10627858)
+
 In the paper "Computational Experiment Comprehension using Provenance Summarization", we present a text-based summarization method for provenance graphs and perform a user study to evaluate users' preference compared to node-link diagrams for reproducibility tasks.
 
 Our evaluation uses a Jupyter notebook to anayze and plot the study data.
