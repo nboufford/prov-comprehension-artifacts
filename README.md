@@ -58,7 +58,7 @@ make install
 cd ..
 ```
 
-Check the end of this section on common Thoth pitfalls if you encounter errors regarding 
+Check the end of this section on common Thoth pitfalls if you encounter errors. 
 
 To collect provenance, first open a new terminal and start the thoth daemon by entering the following command:
 
