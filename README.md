@@ -43,6 +43,64 @@ We then took the preprocessed provenance and input this to GPT with our prompt.
 
 We provide our complete set of raw provenance, intermediate processed logs, and final GPT-4 output in the `workflows` directory. The instructions for text summarization, including a step-by-step example to reproduce the log we create as input to GPT-4, are located in [summarization](https://github.com/nboufford/prov-comprehension-artifacts/tree/main/summarization).
 
+### Reproducing provenance collection
+
+We have provided a VM with Thoth pre-installed and the workflows already loaded at the following doi: [[10.5281/zenodo.10672067](https://doi.org/10.5281/zenodo.10672068)]. Thoth currently is research code and is not currently very robust or containing normal features one might want from a full-fledged piece of software. More information about some current known pitfalls can be found at the end of this section. 
+
+This `ova` file can be imported into VirtualBox using the `File -> Import Appliance` interface. If necessary, you can change some of the specs of the VM upon importing. We have reproduced this experiment using 4096 MB of base memory. Once you have imported the VM, boot it up and use the following instructions to collect provenance on directories of your choosing. The password for root and the thoth accounts is `rep-artifact`. 
+
+Thoth is already installed on the machine, but if you wish to compile it you can execute the following instructions, entering the sudo password as needed:
+
+```{bash}
+cd thoth
+make all
+make install
+cd ..
+```
+
+Check the end of this section on common Thoth pitfalls if you encounter errors regarding 
+
+To collect provenance, first open a new terminal and start the thoth daemon by entering the following command:
+
+```{bash}
+sudo systemctl start thothd
+```
+
+Then pass the **full path** starting from root to the directory you wish to track to thoth. For example, to track example workflow 0, use the following command:
+
+```{bash}
+thoth --track-dir /home/thoth/workflows/example_workflow_0/
+```
+
+You should receive a message saying `tracking: /home/thoth/workflows/example_workflow_0/`/ If you receive a `Connection refused` error, make sure you've started the thoth daemon first. 
+
+Now anything done in the example_workflow_0 directory will be tracked by Thoth until you stop it using `sudo systemctl stop thothd`. There is currently no cli implementation for stopping the tracking of a directory. 
+
+To run the workflows in each directory just navigate to the directory and type `make`. For example,
+
+```{bash}
+cd /home/thoth/workflows/example_workflow_0/
+make
+```
+
+The one exception is workflow 3, which is split into parts to enable editing the scripts between executions. In this case, the steps are:
+
+```{bash}
+make preprocess
+make train_model
+```
+In between these you can edit the preprocess script using Vim. To reproduce our workflow you just need to uncomment the last line which will allow the temp_data to be output.  
+
+#### Common Thoth Pitfalls
+
+Please be aware and patient with the fact that Thoth is currently work in progress, and has some known issues.
+
+- Thoth *does* work on the version of Linux and Fedora shipped in this VM. However, if Fedora updates the kernel it will likely break and no longer compile. 
+
+- When tracking a directory, you will need to pass a filepath starting from root or else it will not track the desired directory
+
+- There is currently no way to stop tracking a directory, or to track multiple directories separately. The only way to stop is shutting down the daemon. 
+
 ## User Study Materials
 
 PDF of the full user study survey: [qualtrics_survey.pdf](https://github.com/nboufford/prov-comprehension-artifacts/blob/main/qualtrics_survey.pdf).

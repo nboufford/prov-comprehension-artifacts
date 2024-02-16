@@ -9,9 +9,6 @@ preprocess:
 train_model: 
 	python3 train_model.py
 
-eval_model: 
-	python3 evalutate_model.py
-
 clean:
 	rm temp_data.csv
 	rm model.ckpt

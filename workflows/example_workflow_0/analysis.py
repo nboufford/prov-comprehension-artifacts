@@ -13,7 +13,7 @@ new_df.to_csv('data_cleaned.csv', index=False)
 plt.rcParams["figure.figsize"] = [7.50, 3.50]
 plt.rcParams["figure.autolayout"] = True
 
-df = pd.read_csv('diabetes_output.csv')
+df = pd.read_csv('data_cleaned.csv')
 
 df.set_index('BloodPressure').plot()
 
