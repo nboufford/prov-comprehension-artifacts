@@ -45,7 +45,7 @@ We provide our complete set of raw provenance, intermediate processed logs, and 
 
 ### Reproducing provenance collection
 
-We have provided a VM with Thoth pre-installed and the workflows already loaded at the following link: [**Nichole put the link here**]. Thoth currently is research code and is not currently very robust or containing normal features one might want from a full-fledged piece of software. More information about some current known pitfalls can be found at the end of this section. 
+We have provided a VM with Thoth pre-installed and the workflows already loaded at the following doi: [[10.5281/zenodo.10672067](https://doi.org/10.5281/zenodo.10672068)]. Thoth currently is research code and is not currently very robust or containing normal features one might want from a full-fledged piece of software. More information about some current known pitfalls can be found at the end of this section. 
 
 This `ova` file can be imported into VirtualBox using the `File -> Import Appliance` interface. If necessary, you can change some of the specs of the VM upon importing. We have reproduced this experiment using 4096 MB of base memory. Once you have imported the VM, boot it up and use the following instructions to collect provenance on directories of your choosing. The password for root and the thoth accounts is `rep-artifact`. 
 
